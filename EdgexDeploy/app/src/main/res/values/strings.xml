@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">EdgexDeploy</string>
+    <string name="ip">IP Address:</string>
+    <string name="port">Port:</string>
+    <string name="privatevalue">Private value:</string>
+
+    <string name="scanning">Scan the QR code to get the MAC address</string>
+    <string name="key">Please enter a private string</string>
+
+    <string name="mac">Mac Address:</string>
+
+    <string name="send">Send</string>
+
+    <string name="macaddr">Mac Address</string>
+    <string name="status">Status</string>
+    <string name="result">Result</string>
+
+
+
+    <string name="aboutmsg">This application is an android configuration tool , it is used to configure the device with information such as Android Link.</string>
+
+    <string name="website">www.advantech.com.cn</string>
+    <string name="copy_right">2019-03-01</string>
+
+
+    <string name="point">.</string>
+
+    <string name="msg_camera_framework_bug">Sorry, the Android camera encountered a problem. You may need to restart the device.</string>
+    <string name="button_ok">OK</string>
+
+    <!--
+    <string name="viewfinderview_status_text1">将二维码/条码放入取景框内</string>
+    <string name="viewfinderview_status_text2">即可自动扫描</string>
+    <string name="scan">扫一扫</string>
+    -->
+
+
+    <string name="viewfinderview_status_text1">Put the QR code/barcode into the frame</string>
+    <string name="viewfinderview_status_text2">Automatic scanning</string>
+    <string name="scan">Scan It</string>
+
+
+</resources>

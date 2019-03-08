@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginRight="45dp"
+    android:layout_marginLeft="45dp"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp"
+    android:orientation="horizontal">
+    <EditText
+        android:id="@+id/ip_first"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center_vertical|center_horizontal"
+        android:background="@null"
+        android:inputType="numberDecimal"
+        android:text=""
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:maxLength="4" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical|center_horizontal"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:text="@string/point"/>
+    <EditText
+        android:id="@+id/ip_second"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center_vertical|center_horizontal"
+        android:background="@null"
+        android:inputType="numberDecimal"
+        android:text=""
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:maxLength="4" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical|center_horizontal"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:text="@string/point" />
+    <EditText
+        android:id="@+id/ip_third"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center_vertical|center_horizontal"
+        android:background="@null"
+        android:inputType="numberDecimal"
+        android:text=""
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:maxLength="4" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical|center_horizontal"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:text="@string/point" />
+    <EditText
+        android:id="@+id/ip_fourth"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center_vertical|center_horizontal"
+        android:background="@null"
+        android:inputType="numberDecimal"
+        android:text=""
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:maxLength="4" />
+</LinearLayout>
